@@ -1,8 +1,8 @@
 ﻿# WareHouse Demo
 
-## [Live Website](https://assignment11-fc9a5.web.app/)
+## [Live Website](https://assignment11-fc9a5.web.app)
 
-### Deploy Link : https://assignment11-fc9a5.web.app/
+### Deploy Link : https://assignment11-fc9a5.web.app
 
 - This is personal service website
 - You can get service
